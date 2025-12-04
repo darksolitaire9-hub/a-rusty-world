@@ -1,0 +1,1 @@
+Welcome to A Rusty World 🌍 — a little universe where code meets curiosity. Old ideas are reborn in Rust, experiments become stories, and mistakes turn into lessons. It’s my personal lab, scrapyard, and playground — shaping rusty fragments into something sharper, one snippet at a time.
