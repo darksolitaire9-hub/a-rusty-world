@@ -1,6 +1,6 @@
 {
   "name": "A Rusty World",
-  "image": "mcr.microsoft.com/devcontainers/rust:bookworm",
+  "image": "mcr.microsoft.com/devcontainers/rust:1-bookworm",
   "customizations": {
     "vscode": {
       "settings": {
